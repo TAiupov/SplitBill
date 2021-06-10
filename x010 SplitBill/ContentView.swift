@@ -27,7 +27,6 @@ struct ContentView: View {
         
         return amountPerPerson
     }
-    
     var body: some View {
         NavigationView {
             Form {
